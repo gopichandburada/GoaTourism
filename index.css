@@ -86,6 +86,7 @@
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
     background-size: cover;
     height: 100vh;
+    padding:15px;
 }
 
 .detailed-view-heading {
